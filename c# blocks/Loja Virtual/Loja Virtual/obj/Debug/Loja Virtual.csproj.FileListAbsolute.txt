@@ -1,0 +1,21 @@
+C:\Users\lab_street\Desktop\Loja Virtual\Loja Virtual\bin\Debug\Loja Virtual.exe.config
+C:\Users\lab_street\Desktop\Loja Virtual\Loja Virtual\bin\Debug\Loja Virtual.exe
+C:\Users\lab_street\Desktop\Loja Virtual\Loja Virtual\bin\Debug\Loja Virtual.pdb
+C:\Users\lab_street\Desktop\Loja Virtual\Loja Virtual\obj\Debug\Loja Virtual.csprojAssemblyReference.cache
+C:\Users\lab_street\Desktop\Loja Virtual\Loja Virtual\obj\Debug\Loja_Virtual.Form1.resources
+C:\Users\lab_street\Desktop\Loja Virtual\Loja Virtual\obj\Debug\Loja_Virtual.Properties.Resources.resources
+C:\Users\lab_street\Desktop\Loja Virtual\Loja Virtual\obj\Debug\Loja Virtual.csproj.GenerateResource.cache
+C:\Users\lab_street\Desktop\Loja Virtual\Loja Virtual\obj\Debug\Loja Virtual.csproj.CoreCompileInputs.cache
+C:\Users\lab_street\Desktop\Loja Virtual\Loja Virtual\obj\Debug\Loja Virtual.exe
+C:\Users\lab_street\Desktop\Loja Virtual\Loja Virtual\obj\Debug\Loja Virtual.pdb
+C:\Users\giova\OneDrive - Etec Centro Paula Souza\Aulas ETEC\2º ANO\Desenvolvimento de Sistemas\C#\Aula4\Loja Virtual\Loja Virtual\bin\Debug\Loja Virtual.exe.config
+C:\Users\giova\OneDrive - Etec Centro Paula Souza\Aulas ETEC\2º ANO\Desenvolvimento de Sistemas\C#\Aula4\Loja Virtual\Loja Virtual\bin\Debug\Loja Virtual.exe
+C:\Users\giova\OneDrive - Etec Centro Paula Souza\Aulas ETEC\2º ANO\Desenvolvimento de Sistemas\C#\Aula4\Loja Virtual\Loja Virtual\bin\Debug\Loja Virtual.pdb
+C:\Users\giova\OneDrive - Etec Centro Paula Souza\Aulas ETEC\2º ANO\Desenvolvimento de Sistemas\C#\Aula4\Loja Virtual\Loja Virtual\obj\Debug\Loja Virtual.csproj.AssemblyReference.cache
+C:\Users\giova\OneDrive - Etec Centro Paula Souza\Aulas ETEC\2º ANO\Desenvolvimento de Sistemas\C#\Aula4\Loja Virtual\Loja Virtual\obj\Debug\Loja Virtual.csproj.SuggestedBindingRedirects.cache
+C:\Users\giova\OneDrive - Etec Centro Paula Souza\Aulas ETEC\2º ANO\Desenvolvimento de Sistemas\C#\Aula4\Loja Virtual\Loja Virtual\obj\Debug\Loja_Virtual.Form1.resources
+C:\Users\giova\OneDrive - Etec Centro Paula Souza\Aulas ETEC\2º ANO\Desenvolvimento de Sistemas\C#\Aula4\Loja Virtual\Loja Virtual\obj\Debug\Loja_Virtual.Properties.Resources.resources
+C:\Users\giova\OneDrive - Etec Centro Paula Souza\Aulas ETEC\2º ANO\Desenvolvimento de Sistemas\C#\Aula4\Loja Virtual\Loja Virtual\obj\Debug\Loja Virtual.csproj.GenerateResource.cache
+C:\Users\giova\OneDrive - Etec Centro Paula Souza\Aulas ETEC\2º ANO\Desenvolvimento de Sistemas\C#\Aula4\Loja Virtual\Loja Virtual\obj\Debug\Loja Virtual.csproj.CoreCompileInputs.cache
+C:\Users\giova\OneDrive - Etec Centro Paula Souza\Aulas ETEC\2º ANO\Desenvolvimento de Sistemas\C#\Aula4\Loja Virtual\Loja Virtual\obj\Debug\Loja Virtual.exe
+C:\Users\giova\OneDrive - Etec Centro Paula Souza\Aulas ETEC\2º ANO\Desenvolvimento de Sistemas\C#\Aula4\Loja Virtual\Loja Virtual\obj\Debug\Loja Virtual.pdb

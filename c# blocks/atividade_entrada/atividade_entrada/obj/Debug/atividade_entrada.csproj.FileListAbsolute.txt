@@ -1,0 +1,10 @@
+C:\Users\lab_street\source\repos\atividade_entrada\atividade_entrada\bin\Debug\atividade_entrada.exe.config
+C:\Users\lab_street\source\repos\atividade_entrada\atividade_entrada\bin\Debug\atividade_entrada.exe
+C:\Users\lab_street\source\repos\atividade_entrada\atividade_entrada\bin\Debug\atividade_entrada.pdb
+C:\Users\lab_street\source\repos\atividade_entrada\atividade_entrada\obj\Debug\atividade_entrada.csprojAssemblyReference.cache
+C:\Users\lab_street\source\repos\atividade_entrada\atividade_entrada\obj\Debug\atividade_entrada.Form1.resources
+C:\Users\lab_street\source\repos\atividade_entrada\atividade_entrada\obj\Debug\atividade_entrada.Properties.Resources.resources
+C:\Users\lab_street\source\repos\atividade_entrada\atividade_entrada\obj\Debug\atividade_entrada.csproj.GenerateResource.cache
+C:\Users\lab_street\source\repos\atividade_entrada\atividade_entrada\obj\Debug\atividade_entrada.csproj.CoreCompileInputs.cache
+C:\Users\lab_street\source\repos\atividade_entrada\atividade_entrada\obj\Debug\atividade_entrada.exe
+C:\Users\lab_street\source\repos\atividade_entrada\atividade_entrada\obj\Debug\atividade_entrada.pdb

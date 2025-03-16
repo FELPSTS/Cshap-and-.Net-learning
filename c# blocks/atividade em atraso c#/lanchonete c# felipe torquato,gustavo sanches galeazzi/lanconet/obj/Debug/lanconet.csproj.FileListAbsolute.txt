@@ -1,0 +1,42 @@
+C:\Users\lab_street\source\repos\lanconet\lanconet\obj\Debug\lanconet.csprojAssemblyReference.cache
+C:\Users\lab_street\source\repos\lanconet\lanconet\obj\Debug\lanconet.Form1.resources
+C:\Users\lab_street\source\repos\lanconet\lanconet\obj\Debug\lanconet.Properties.Resources.resources
+C:\Users\lab_street\source\repos\lanconet\lanconet\obj\Debug\lanconet.csproj.GenerateResource.cache
+C:\Users\lab_street\source\repos\lanconet\lanconet\obj\Debug\lanconet.csproj.CoreCompileInputs.cache
+C:\Users\lab_street\source\repos\lanconet\lanconet\bin\Debug\lanconet.exe.config
+C:\Users\lab_street\source\repos\lanconet\lanconet\bin\Debug\lanconet.exe
+C:\Users\lab_street\source\repos\lanconet\lanconet\bin\Debug\lanconet.pdb
+C:\Users\lab_street\source\repos\lanconet\lanconet\obj\Debug\lanconet.exe
+C:\Users\lab_street\source\repos\lanconet\lanconet\obj\Debug\lanconet.pdb
+D:\lanconet\lanconet\obj\Debug\lanconet.csproj.AssemblyReference.cache
+D:\lanconet\lanconet\obj\Debug\lanconet.csproj.SuggestedBindingRedirects.cache
+D:\lanconet\lanconet\obj\Debug\lanconet.Form1.resources
+D:\lanconet\lanconet\obj\Debug\lanconet.Properties.Resources.resources
+D:\lanconet\lanconet\obj\Debug\lanconet.csproj.GenerateResource.cache
+D:\lanconet\lanconet\obj\Debug\lanconet.csproj.CoreCompileInputs.cache
+D:\lanconet\lanconet\obj\Debug\lanconet.exe
+D:\lanconet\lanconet\obj\Debug\lanconet.pdb
+D:\lanconet\lanconet\bin\Debug\lanconet.exe.config
+D:\lanconet\lanconet\bin\Debug\lanconet.exe
+D:\lanconet\lanconet\bin\Debug\lanconet.pdb
+C:\Users\Mac\Desktop\coisas FELPST\aulas\pasta geral\programação\linguagem c\c# blocos\atividade em atraso c#\lanchonete c# felipe torquato,gustavo sanches galeazzi\lanconet\bin\Debug\lanconet.exe.config
+C:\Users\Mac\Desktop\coisas FELPST\aulas\pasta geral\programação\linguagem c\c# blocos\atividade em atraso c#\lanchonete c# felipe torquato,gustavo sanches galeazzi\lanconet\bin\Debug\lanconet.exe
+C:\Users\Mac\Desktop\coisas FELPST\aulas\pasta geral\programação\linguagem c\c# blocos\atividade em atraso c#\lanchonete c# felipe torquato,gustavo sanches galeazzi\lanconet\bin\Debug\lanconet.pdb
+C:\Users\Mac\Desktop\coisas FELPST\aulas\pasta geral\programação\linguagem c\c# blocos\atividade em atraso c#\lanchonete c# felipe torquato,gustavo sanches galeazzi\lanconet\obj\Debug\lanconet.csproj.AssemblyReference.cache
+C:\Users\Mac\Desktop\coisas FELPST\aulas\pasta geral\programação\linguagem c\c# blocos\atividade em atraso c#\lanchonete c# felipe torquato,gustavo sanches galeazzi\lanconet\obj\Debug\lanconet.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mac\Desktop\coisas FELPST\aulas\pasta geral\programação\linguagem c\c# blocos\atividade em atraso c#\lanchonete c# felipe torquato,gustavo sanches galeazzi\lanconet\obj\Debug\lanconet.Form1.resources
+C:\Users\Mac\Desktop\coisas FELPST\aulas\pasta geral\programação\linguagem c\c# blocos\atividade em atraso c#\lanchonete c# felipe torquato,gustavo sanches galeazzi\lanconet\obj\Debug\lanconet.Properties.Resources.resources
+C:\Users\Mac\Desktop\coisas FELPST\aulas\pasta geral\programação\linguagem c\c# blocos\atividade em atraso c#\lanchonete c# felipe torquato,gustavo sanches galeazzi\lanconet\obj\Debug\lanconet.csproj.GenerateResource.cache
+C:\Users\Mac\Desktop\coisas FELPST\aulas\pasta geral\programação\linguagem c\c# blocos\atividade em atraso c#\lanchonete c# felipe torquato,gustavo sanches galeazzi\lanconet\obj\Debug\lanconet.csproj.CoreCompileInputs.cache
+C:\Users\Mac\Desktop\coisas FELPST\aulas\pasta geral\programação\linguagem c\c# blocos\atividade em atraso c#\lanchonete c# felipe torquato,gustavo sanches galeazzi\lanconet\obj\Debug\lanconet.exe
+C:\Users\Mac\Desktop\coisas FELPST\aulas\pasta geral\programação\linguagem c\c# blocos\atividade em atraso c#\lanchonete c# felipe torquato,gustavo sanches galeazzi\lanconet\obj\Debug\lanconet.pdb
+D:\aulas\pasta geral\programação\linguagem c\c# blocos\atividade em atraso c#\lanchonete c# felipe torquato,gustavo sanches galeazzi\lanconet\bin\Debug\lanconet.exe.config
+D:\aulas\pasta geral\programação\linguagem c\c# blocos\atividade em atraso c#\lanchonete c# felipe torquato,gustavo sanches galeazzi\lanconet\bin\Debug\lanconet.exe
+D:\aulas\pasta geral\programação\linguagem c\c# blocos\atividade em atraso c#\lanchonete c# felipe torquato,gustavo sanches galeazzi\lanconet\bin\Debug\lanconet.pdb
+D:\aulas\pasta geral\programação\linguagem c\c# blocos\atividade em atraso c#\lanchonete c# felipe torquato,gustavo sanches galeazzi\lanconet\obj\Debug\lanconet.csprojAssemblyReference.cache
+D:\aulas\pasta geral\programação\linguagem c\c# blocos\atividade em atraso c#\lanchonete c# felipe torquato,gustavo sanches galeazzi\lanconet\obj\Debug\lanconet.Form1.resources
+D:\aulas\pasta geral\programação\linguagem c\c# blocos\atividade em atraso c#\lanchonete c# felipe torquato,gustavo sanches galeazzi\lanconet\obj\Debug\lanconet.Properties.Resources.resources
+D:\aulas\pasta geral\programação\linguagem c\c# blocos\atividade em atraso c#\lanchonete c# felipe torquato,gustavo sanches galeazzi\lanconet\obj\Debug\lanconet.csproj.GenerateResource.cache
+D:\aulas\pasta geral\programação\linguagem c\c# blocos\atividade em atraso c#\lanchonete c# felipe torquato,gustavo sanches galeazzi\lanconet\obj\Debug\lanconet.csproj.CoreCompileInputs.cache
+D:\aulas\pasta geral\programação\linguagem c\c# blocos\atividade em atraso c#\lanchonete c# felipe torquato,gustavo sanches galeazzi\lanconet\obj\Debug\lanconet.exe
+D:\aulas\pasta geral\programação\linguagem c\c# blocos\atividade em atraso c#\lanchonete c# felipe torquato,gustavo sanches galeazzi\lanconet\obj\Debug\lanconet.pdb

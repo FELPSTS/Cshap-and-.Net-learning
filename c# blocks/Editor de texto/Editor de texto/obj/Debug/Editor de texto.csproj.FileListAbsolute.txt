@@ -1,0 +1,10 @@
+C:\Users\lab_street\source\repos\Editor de texto\Editor de texto\bin\Debug\Editor de texto.exe.config
+C:\Users\lab_street\source\repos\Editor de texto\Editor de texto\bin\Debug\Editor de texto.exe
+C:\Users\lab_street\source\repos\Editor de texto\Editor de texto\bin\Debug\Editor de texto.pdb
+C:\Users\lab_street\source\repos\Editor de texto\Editor de texto\obj\Debug\Editor de texto.csprojAssemblyReference.cache
+C:\Users\lab_street\source\repos\Editor de texto\Editor de texto\obj\Debug\Editor_de_texto.Form1.resources
+C:\Users\lab_street\source\repos\Editor de texto\Editor de texto\obj\Debug\Editor_de_texto.Properties.Resources.resources
+C:\Users\lab_street\source\repos\Editor de texto\Editor de texto\obj\Debug\Editor de texto.csproj.GenerateResource.cache
+C:\Users\lab_street\source\repos\Editor de texto\Editor de texto\obj\Debug\Editor de texto.csproj.CoreCompileInputs.cache
+C:\Users\lab_street\source\repos\Editor de texto\Editor de texto\obj\Debug\Editor de texto.exe
+C:\Users\lab_street\source\repos\Editor de texto\Editor de texto\obj\Debug\Editor de texto.pdb

@@ -1,0 +1,20 @@
+C:\Users\lab_street\source\repos\duwhile\duwhile\bin\Debug\duwhile.exe.config
+C:\Users\lab_street\source\repos\duwhile\duwhile\bin\Debug\duwhile.exe
+C:\Users\lab_street\source\repos\duwhile\duwhile\bin\Debug\duwhile.pdb
+C:\Users\lab_street\source\repos\duwhile\duwhile\obj\Debug\duwhile.Form1.resources
+C:\Users\lab_street\source\repos\duwhile\duwhile\obj\Debug\duwhile.Properties.Resources.resources
+C:\Users\lab_street\source\repos\duwhile\duwhile\obj\Debug\duwhile.csproj.GenerateResource.cache
+C:\Users\lab_street\source\repos\duwhile\duwhile\obj\Debug\duwhile.csproj.CoreCompileInputs.cache
+C:\Users\lab_street\source\repos\duwhile\duwhile\obj\Debug\duwhile.exe
+C:\Users\lab_street\source\repos\duwhile\duwhile\obj\Debug\duwhile.pdb
+D:\-\programação\linguagem c\c# blocos\duwhile\duwhile\bin\Debug\duwhile.exe.config
+D:\-\programação\linguagem c\c# blocos\duwhile\duwhile\bin\Debug\duwhile.exe
+D:\-\programação\linguagem c\c# blocos\duwhile\duwhile\bin\Debug\duwhile.pdb
+D:\-\programação\linguagem c\c# blocos\duwhile\duwhile\obj\Debug\duwhile.csproj.AssemblyReference.cache
+D:\-\programação\linguagem c\c# blocos\duwhile\duwhile\obj\Debug\duwhile.csproj.SuggestedBindingRedirects.cache
+D:\-\programação\linguagem c\c# blocos\duwhile\duwhile\obj\Debug\duwhile.Form1.resources
+D:\-\programação\linguagem c\c# blocos\duwhile\duwhile\obj\Debug\duwhile.Properties.Resources.resources
+D:\-\programação\linguagem c\c# blocos\duwhile\duwhile\obj\Debug\duwhile.csproj.GenerateResource.cache
+D:\-\programação\linguagem c\c# blocos\duwhile\duwhile\obj\Debug\duwhile.csproj.CoreCompileInputs.cache
+D:\-\programação\linguagem c\c# blocos\duwhile\duwhile\obj\Debug\duwhile.exe
+D:\-\programação\linguagem c\c# blocos\duwhile\duwhile\obj\Debug\duwhile.pdb

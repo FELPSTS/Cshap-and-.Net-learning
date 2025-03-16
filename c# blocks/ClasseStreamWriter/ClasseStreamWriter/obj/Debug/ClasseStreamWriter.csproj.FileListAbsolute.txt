@@ -1,0 +1,10 @@
+C:\Users\lab_street\source\repos\ClasseStreamWriter\ClasseStreamWriter\obj\Debug\ClasseStreamWriter.csprojAssemblyReference.cache
+C:\Users\lab_street\source\repos\ClasseStreamWriter\ClasseStreamWriter\obj\Debug\ClasseStreamWriter.Form1.resources
+C:\Users\lab_street\source\repos\ClasseStreamWriter\ClasseStreamWriter\obj\Debug\ClasseStreamWriter.Properties.Resources.resources
+C:\Users\lab_street\source\repos\ClasseStreamWriter\ClasseStreamWriter\obj\Debug\ClasseStreamWriter.csproj.GenerateResource.cache
+C:\Users\lab_street\source\repos\ClasseStreamWriter\ClasseStreamWriter\obj\Debug\ClasseStreamWriter.csproj.CoreCompileInputs.cache
+C:\Users\lab_street\source\repos\ClasseStreamWriter\ClasseStreamWriter\bin\Debug\ClasseStreamWriter.exe.config
+C:\Users\lab_street\source\repos\ClasseStreamWriter\ClasseStreamWriter\bin\Debug\ClasseStreamWriter.exe
+C:\Users\lab_street\source\repos\ClasseStreamWriter\ClasseStreamWriter\bin\Debug\ClasseStreamWriter.pdb
+C:\Users\lab_street\source\repos\ClasseStreamWriter\ClasseStreamWriter\obj\Debug\ClasseStreamWriter.exe
+C:\Users\lab_street\source\repos\ClasseStreamWriter\ClasseStreamWriter\obj\Debug\ClasseStreamWriter.pdb

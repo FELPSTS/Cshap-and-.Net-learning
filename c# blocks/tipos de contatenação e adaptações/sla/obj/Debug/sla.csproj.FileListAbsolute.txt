@@ -1,0 +1,10 @@
+C:\Users\lab_street\source\repos\sla\sla\obj\Debug\sla.csprojAssemblyReference.cache
+C:\Users\lab_street\source\repos\sla\sla\obj\Debug\sla.Form1.resources
+C:\Users\lab_street\source\repos\sla\sla\obj\Debug\sla.Properties.Resources.resources
+C:\Users\lab_street\source\repos\sla\sla\obj\Debug\sla.csproj.GenerateResource.cache
+C:\Users\lab_street\source\repos\sla\sla\obj\Debug\sla.csproj.CoreCompileInputs.cache
+C:\Users\lab_street\source\repos\sla\sla\bin\Debug\sla.exe.config
+C:\Users\lab_street\source\repos\sla\sla\bin\Debug\sla.exe
+C:\Users\lab_street\source\repos\sla\sla\bin\Debug\sla.pdb
+C:\Users\lab_street\source\repos\sla\sla\obj\Debug\sla.exe
+C:\Users\lab_street\source\repos\sla\sla\obj\Debug\sla.pdb

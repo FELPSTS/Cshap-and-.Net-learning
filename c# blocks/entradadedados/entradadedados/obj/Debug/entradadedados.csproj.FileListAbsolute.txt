@@ -1,0 +1,10 @@
+C:\Users\lab_street\source\repos\entradadedados\entradadedados\bin\Debug\entradadedados.exe.config
+C:\Users\lab_street\source\repos\entradadedados\entradadedados\bin\Debug\entradadedados.exe
+C:\Users\lab_street\source\repos\entradadedados\entradadedados\bin\Debug\entradadedados.pdb
+C:\Users\lab_street\source\repos\entradadedados\entradadedados\obj\Debug\entradadedados.csprojAssemblyReference.cache
+C:\Users\lab_street\source\repos\entradadedados\entradadedados\obj\Debug\entradadedados.Form1.resources
+C:\Users\lab_street\source\repos\entradadedados\entradadedados\obj\Debug\entradadedados.Properties.Resources.resources
+C:\Users\lab_street\source\repos\entradadedados\entradadedados\obj\Debug\entradadedados.csproj.GenerateResource.cache
+C:\Users\lab_street\source\repos\entradadedados\entradadedados\obj\Debug\entradadedados.csproj.CoreCompileInputs.cache
+C:\Users\lab_street\source\repos\entradadedados\entradadedados\obj\Debug\entradadedados.exe
+C:\Users\lab_street\source\repos\entradadedados\entradadedados\obj\Debug\entradadedados.pdb

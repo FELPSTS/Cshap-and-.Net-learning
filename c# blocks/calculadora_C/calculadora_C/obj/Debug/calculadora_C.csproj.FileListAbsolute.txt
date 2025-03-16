@@ -1,0 +1,20 @@
+C:\Users\lab_street\source\repos\calculadora_C\calculadora_C\obj\Debug\calculadora_C.csprojAssemblyReference.cache
+C:\Users\lab_street\source\repos\calculadora_C\calculadora_C\obj\Debug\calculadora_C.Form1.resources
+C:\Users\lab_street\source\repos\calculadora_C\calculadora_C\obj\Debug\calculadora_C.Properties.Resources.resources
+C:\Users\lab_street\source\repos\calculadora_C\calculadora_C\obj\Debug\calculadora_C.csproj.GenerateResource.cache
+C:\Users\lab_street\source\repos\calculadora_C\calculadora_C\obj\Debug\calculadora_C.csproj.CoreCompileInputs.cache
+C:\Users\lab_street\source\repos\calculadora_C\calculadora_C\bin\Debug\calculadora_C.exe.config
+C:\Users\lab_street\source\repos\calculadora_C\calculadora_C\bin\Debug\calculadora_C.exe
+C:\Users\lab_street\source\repos\calculadora_C\calculadora_C\bin\Debug\calculadora_C.pdb
+C:\Users\lab_street\source\repos\calculadora_C\calculadora_C\obj\Debug\calculadora_C.exe
+C:\Users\lab_street\source\repos\calculadora_C\calculadora_C\obj\Debug\calculadora_C.pdb
+C:\Users\Torquatos\Desktop\coisas FELPAS\FELIPE\coisas FELPST\aulas\pasta geral\programação\linguagem c\c# blocos\calculadora_C\calculadora_C\bin\Debug\calculadora_C.exe.config
+C:\Users\Torquatos\Desktop\coisas FELPAS\FELIPE\coisas FELPST\aulas\pasta geral\programação\linguagem c\c# blocos\calculadora_C\calculadora_C\bin\Debug\calculadora_C.exe
+C:\Users\Torquatos\Desktop\coisas FELPAS\FELIPE\coisas FELPST\aulas\pasta geral\programação\linguagem c\c# blocos\calculadora_C\calculadora_C\bin\Debug\calculadora_C.pdb
+C:\Users\Torquatos\Desktop\coisas FELPAS\FELIPE\coisas FELPST\aulas\pasta geral\programação\linguagem c\c# blocos\calculadora_C\calculadora_C\obj\Debug\calculadora_C.csproj.AssemblyReference.cache
+C:\Users\Torquatos\Desktop\coisas FELPAS\FELIPE\coisas FELPST\aulas\pasta geral\programação\linguagem c\c# blocos\calculadora_C\calculadora_C\obj\Debug\calculadora_C.Form1.resources
+C:\Users\Torquatos\Desktop\coisas FELPAS\FELIPE\coisas FELPST\aulas\pasta geral\programação\linguagem c\c# blocos\calculadora_C\calculadora_C\obj\Debug\calculadora_C.Properties.Resources.resources
+C:\Users\Torquatos\Desktop\coisas FELPAS\FELIPE\coisas FELPST\aulas\pasta geral\programação\linguagem c\c# blocos\calculadora_C\calculadora_C\obj\Debug\calculadora_C.csproj.GenerateResource.cache
+C:\Users\Torquatos\Desktop\coisas FELPAS\FELIPE\coisas FELPST\aulas\pasta geral\programação\linguagem c\c# blocos\calculadora_C\calculadora_C\obj\Debug\calculadora_C.csproj.CoreCompileInputs.cache
+C:\Users\Torquatos\Desktop\coisas FELPAS\FELIPE\coisas FELPST\aulas\pasta geral\programação\linguagem c\c# blocos\calculadora_C\calculadora_C\obj\Debug\calculadora_C.exe
+C:\Users\Torquatos\Desktop\coisas FELPAS\FELIPE\coisas FELPST\aulas\pasta geral\programação\linguagem c\c# blocos\calculadora_C\calculadora_C\obj\Debug\calculadora_C.pdb

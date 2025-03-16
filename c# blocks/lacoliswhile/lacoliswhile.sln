@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lacoliswhile", "lacoliswhile\lacoliswhile.csproj", "{375060FC-3231-4204-B96D-5ED117431B6C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{375060FC-3231-4204-B96D-5ED117431B6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{375060FC-3231-4204-B96D-5ED117431B6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{375060FC-3231-4204-B96D-5ED117431B6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{375060FC-3231-4204-B96D-5ED117431B6C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B1DDB42A-073A-4B3B-A72E-1A02634984E6}
+	EndGlobalSection
+EndGlobal

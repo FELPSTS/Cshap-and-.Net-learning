@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "assignment operators", "assignment operators\assignment operators.csproj", "{07E6D88E-AF79-4F36-9845-16B274F9D899}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07E6D88E-AF79-4F36-9845-16B274F9D899}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07E6D88E-AF79-4F36-9845-16B274F9D899}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07E6D88E-AF79-4F36-9845-16B274F9D899}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07E6D88E-AF79-4F36-9845-16B274F9D899}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FAE9BB6B-3163-4B2D-9248-3DEF872D751E}
+	EndGlobalSection
+EndGlobal

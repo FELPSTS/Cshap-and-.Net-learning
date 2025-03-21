@@ -1,0 +1,15 @@
+C:\Users\Torquatos\Desktop\coisas FELPAS\UDEMY\VisualstudioCSharpProjetos\LogicalOperators\LogicalOperators\bin\Debug\net8.0\LogicalOperators.exe
+C:\Users\Torquatos\Desktop\coisas FELPAS\UDEMY\VisualstudioCSharpProjetos\LogicalOperators\LogicalOperators\bin\Debug\net8.0\LogicalOperators.deps.json
+C:\Users\Torquatos\Desktop\coisas FELPAS\UDEMY\VisualstudioCSharpProjetos\LogicalOperators\LogicalOperators\bin\Debug\net8.0\LogicalOperators.runtimeconfig.json
+C:\Users\Torquatos\Desktop\coisas FELPAS\UDEMY\VisualstudioCSharpProjetos\LogicalOperators\LogicalOperators\bin\Debug\net8.0\LogicalOperators.dll
+C:\Users\Torquatos\Desktop\coisas FELPAS\UDEMY\VisualstudioCSharpProjetos\LogicalOperators\LogicalOperators\bin\Debug\net8.0\LogicalOperators.pdb
+C:\Users\Torquatos\Desktop\coisas FELPAS\UDEMY\VisualstudioCSharpProjetos\LogicalOperators\LogicalOperators\obj\Debug\net8.0\LogicalOperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Torquatos\Desktop\coisas FELPAS\UDEMY\VisualstudioCSharpProjetos\LogicalOperators\LogicalOperators\obj\Debug\net8.0\LogicalOperators.AssemblyInfoInputs.cache
+C:\Users\Torquatos\Desktop\coisas FELPAS\UDEMY\VisualstudioCSharpProjetos\LogicalOperators\LogicalOperators\obj\Debug\net8.0\LogicalOperators.AssemblyInfo.cs
+C:\Users\Torquatos\Desktop\coisas FELPAS\UDEMY\VisualstudioCSharpProjetos\LogicalOperators\LogicalOperators\obj\Debug\net8.0\LogicalOperators.csproj.CoreCompileInputs.cache
+C:\Users\Torquatos\Desktop\coisas FELPAS\UDEMY\VisualstudioCSharpProjetos\LogicalOperators\LogicalOperators\obj\Debug\net8.0\LogicalOperators.sourcelink.json
+C:\Users\Torquatos\Desktop\coisas FELPAS\UDEMY\VisualstudioCSharpProjetos\LogicalOperators\LogicalOperators\obj\Debug\net8.0\LogicalOperators.dll
+C:\Users\Torquatos\Desktop\coisas FELPAS\UDEMY\VisualstudioCSharpProjetos\LogicalOperators\LogicalOperators\obj\Debug\net8.0\refint\LogicalOperators.dll
+C:\Users\Torquatos\Desktop\coisas FELPAS\UDEMY\VisualstudioCSharpProjetos\LogicalOperators\LogicalOperators\obj\Debug\net8.0\LogicalOperators.pdb
+C:\Users\Torquatos\Desktop\coisas FELPAS\UDEMY\VisualstudioCSharpProjetos\LogicalOperators\LogicalOperators\obj\Debug\net8.0\LogicalOperators.genruntimeconfig.cache
+C:\Users\Torquatos\Desktop\coisas FELPAS\UDEMY\VisualstudioCSharpProjetos\LogicalOperators\LogicalOperators\obj\Debug\net8.0\ref\LogicalOperators.dll

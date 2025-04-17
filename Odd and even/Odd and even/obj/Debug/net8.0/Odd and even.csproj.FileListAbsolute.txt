@@ -1,0 +1,15 @@
+C:\Users\Torquatos\Desktop\coisas FELPAS\UDEMY\VisualstudioCSharpProjetos\Odd and even\Odd and even\bin\Debug\net8.0\Odd and even.exe
+C:\Users\Torquatos\Desktop\coisas FELPAS\UDEMY\VisualstudioCSharpProjetos\Odd and even\Odd and even\bin\Debug\net8.0\Odd and even.deps.json
+C:\Users\Torquatos\Desktop\coisas FELPAS\UDEMY\VisualstudioCSharpProjetos\Odd and even\Odd and even\bin\Debug\net8.0\Odd and even.runtimeconfig.json
+C:\Users\Torquatos\Desktop\coisas FELPAS\UDEMY\VisualstudioCSharpProjetos\Odd and even\Odd and even\bin\Debug\net8.0\Odd and even.dll
+C:\Users\Torquatos\Desktop\coisas FELPAS\UDEMY\VisualstudioCSharpProjetos\Odd and even\Odd and even\bin\Debug\net8.0\Odd and even.pdb
+C:\Users\Torquatos\Desktop\coisas FELPAS\UDEMY\VisualstudioCSharpProjetos\Odd and even\Odd and even\obj\Debug\net8.0\Odd and even.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Torquatos\Desktop\coisas FELPAS\UDEMY\VisualstudioCSharpProjetos\Odd and even\Odd and even\obj\Debug\net8.0\Odd and even.AssemblyInfoInputs.cache
+C:\Users\Torquatos\Desktop\coisas FELPAS\UDEMY\VisualstudioCSharpProjetos\Odd and even\Odd and even\obj\Debug\net8.0\Odd and even.AssemblyInfo.cs
+C:\Users\Torquatos\Desktop\coisas FELPAS\UDEMY\VisualstudioCSharpProjetos\Odd and even\Odd and even\obj\Debug\net8.0\Odd and even.csproj.CoreCompileInputs.cache
+C:\Users\Torquatos\Desktop\coisas FELPAS\UDEMY\VisualstudioCSharpProjetos\Odd and even\Odd and even\obj\Debug\net8.0\Odd and even.sourcelink.json
+C:\Users\Torquatos\Desktop\coisas FELPAS\UDEMY\VisualstudioCSharpProjetos\Odd and even\Odd and even\obj\Debug\net8.0\Odd and even.dll
+C:\Users\Torquatos\Desktop\coisas FELPAS\UDEMY\VisualstudioCSharpProjetos\Odd and even\Odd and even\obj\Debug\net8.0\refint\Odd and even.dll
+C:\Users\Torquatos\Desktop\coisas FELPAS\UDEMY\VisualstudioCSharpProjetos\Odd and even\Odd and even\obj\Debug\net8.0\Odd and even.pdb
+C:\Users\Torquatos\Desktop\coisas FELPAS\UDEMY\VisualstudioCSharpProjetos\Odd and even\Odd and even\obj\Debug\net8.0\Odd and even.genruntimeconfig.cache
+C:\Users\Torquatos\Desktop\coisas FELPAS\UDEMY\VisualstudioCSharpProjetos\Odd and even\Odd and even\obj\Debug\net8.0\ref\Odd and even.dll

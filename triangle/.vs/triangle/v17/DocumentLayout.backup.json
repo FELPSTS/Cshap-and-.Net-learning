@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{7960D532-9029-4AC5-AC3F-98998FA28C35}|triangle\\triangle.csproj|c:\\users\\torquatos\\desktop\\coisas felpas\\udemy\\visualstudiocsharpprojetos\\triangle\\triangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7960D532-9029-4AC5-AC3F-98998FA28C35}|triangle\\triangle.csproj|solutionrelative:triangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7960D532-9029-4AC5-AC3F-98998FA28C35}|triangle\\triangle.csproj|c:\\users\\torquatos\\desktop\\coisas felpas\\udemy\\visualstudiocsharpprojetos\\triangle\\triangle\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7960D532-9029-4AC5-AC3F-98998FA28C35}|triangle\\triangle.csproj|solutionrelative:triangle\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Triangulo.cs",
+              "DocumentMoniker": "C:\\Users\\Torquatos\\Desktop\\coisas FELPAS\\UDEMY\\VisualstudioCSharpProjetos\\triangle\\triangle\\Triangulo.cs",
+              "RelativeDocumentMoniker": "triangle\\Triangulo.cs",
+              "ToolTip": "C:\\Users\\Torquatos\\Desktop\\coisas FELPAS\\UDEMY\\VisualstudioCSharpProjetos\\triangle\\triangle\\Triangulo.cs",
+              "RelativeToolTip": "triangle\\Triangulo.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAwAIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T04:44:42.497Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +41,7 @@
               "RelativeDocumentMoniker": "triangle\\Program.cs",
               "ToolTip": "C:\\Users\\Torquatos\\Desktop\\coisas FELPAS\\UDEMY\\VisualstudioCSharpProjetos\\triangle\\triangle\\Program.cs",
               "RelativeToolTip": "triangle\\Program.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAADwvyIAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBEAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-02T22:46:38.409Z",
               "EditorCaption": ""

@@ -8,21 +8,30 @@ namespace MyApp
     {
         static void Main(string[] args)
         {
-
             Produto p = new Produto();
 
             Console.WriteLine("Digite os dados do produto");
-            Console.WriteLine("Digite o nome do produto");
-            p.nome = Console.ReadLine();
-            Console.WriteLine("Digite o preço do produto");
-            p.Preco = Console.ReadLine();
 
-            Console.WriteLine("Digite a quantidade do produto no estoque");
-            p.Quatindade = Console.ReadLine();
+            Console.Write("Nome: ");
+            p.Nome = Console.ReadLine();
 
-            Console.WriteLine("Dados do produto: " + p);
+            Console.Write("Preço: ");
+            p.Preco = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
-            
+            Console.Write("Quantidade no estoque: ");
+            p.Quantidade = int.Parse(Console.ReadLine());
+
+            Console.WriteLine("\nDados do produto: " + p);
+
+            Console.Write("\nDigite o número de produtos a serem adicionados: ");
+            int qtd = int.Parse(Console.ReadLine());
+            p.AdicionarProdutos(qtd);
+            Console.WriteLine("Dados atualizados: " + p);
+
+            Console.Write("\nDigite o número de produtos a serem removidos: ");
+            qtd = int.Parse(Console.ReadLine());
+            p.RemoverProdutos(qtd);
+            Console.WriteLine("Dados atualizados: " + p);
         }
-    } 
+    }
 }

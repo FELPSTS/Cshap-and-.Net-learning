@@ -1,0 +1,15 @@
+C:\Users\Torquatos\Desktop\coisas FELPAS\UDEMY\VisualstudioCSharpProjetos\staticmethod\staticmethod\bin\Debug\net8.0\staticmethod.exe
+C:\Users\Torquatos\Desktop\coisas FELPAS\UDEMY\VisualstudioCSharpProjetos\staticmethod\staticmethod\bin\Debug\net8.0\staticmethod.deps.json
+C:\Users\Torquatos\Desktop\coisas FELPAS\UDEMY\VisualstudioCSharpProjetos\staticmethod\staticmethod\bin\Debug\net8.0\staticmethod.runtimeconfig.json
+C:\Users\Torquatos\Desktop\coisas FELPAS\UDEMY\VisualstudioCSharpProjetos\staticmethod\staticmethod\bin\Debug\net8.0\staticmethod.dll
+C:\Users\Torquatos\Desktop\coisas FELPAS\UDEMY\VisualstudioCSharpProjetos\staticmethod\staticmethod\bin\Debug\net8.0\staticmethod.pdb
+C:\Users\Torquatos\Desktop\coisas FELPAS\UDEMY\VisualstudioCSharpProjetos\staticmethod\staticmethod\obj\Debug\net8.0\staticmethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Torquatos\Desktop\coisas FELPAS\UDEMY\VisualstudioCSharpProjetos\staticmethod\staticmethod\obj\Debug\net8.0\staticmethod.AssemblyInfoInputs.cache
+C:\Users\Torquatos\Desktop\coisas FELPAS\UDEMY\VisualstudioCSharpProjetos\staticmethod\staticmethod\obj\Debug\net8.0\staticmethod.AssemblyInfo.cs
+C:\Users\Torquatos\Desktop\coisas FELPAS\UDEMY\VisualstudioCSharpProjetos\staticmethod\staticmethod\obj\Debug\net8.0\staticmethod.csproj.CoreCompileInputs.cache
+C:\Users\Torquatos\Desktop\coisas FELPAS\UDEMY\VisualstudioCSharpProjetos\staticmethod\staticmethod\obj\Debug\net8.0\staticmethod.sourcelink.json
+C:\Users\Torquatos\Desktop\coisas FELPAS\UDEMY\VisualstudioCSharpProjetos\staticmethod\staticmethod\obj\Debug\net8.0\staticmethod.dll
+C:\Users\Torquatos\Desktop\coisas FELPAS\UDEMY\VisualstudioCSharpProjetos\staticmethod\staticmethod\obj\Debug\net8.0\refint\staticmethod.dll
+C:\Users\Torquatos\Desktop\coisas FELPAS\UDEMY\VisualstudioCSharpProjetos\staticmethod\staticmethod\obj\Debug\net8.0\staticmethod.pdb
+C:\Users\Torquatos\Desktop\coisas FELPAS\UDEMY\VisualstudioCSharpProjetos\staticmethod\staticmethod\obj\Debug\net8.0\staticmethod.genruntimeconfig.cache
+C:\Users\Torquatos\Desktop\coisas FELPAS\UDEMY\VisualstudioCSharpProjetos\staticmethod\staticmethod\obj\Debug\net8.0\ref\staticmethod.dll

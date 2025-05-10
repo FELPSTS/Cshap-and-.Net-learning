@@ -20,8 +20,9 @@ namespace MyApp
             Console.WriteLine("Digite a quantidade do produto no estoque");
             p.Quatindade = Console.ReadLine();
 
-            Console.WriteLine("Dados do produto: " + p.nome + ", " + p.Preco + ", " + p.Quatindade);
+            Console.WriteLine("Dados do produto: " + p);
 
+            
         }
     } 
 }

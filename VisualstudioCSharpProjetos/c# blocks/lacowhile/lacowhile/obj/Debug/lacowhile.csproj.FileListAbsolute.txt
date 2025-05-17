@@ -1,0 +1,20 @@
+C:\Users\lab_street\source\repos\lacowhile\lacowhile\obj\Debug\lacowhile.csprojAssemblyReference.cache
+C:\Users\lab_street\source\repos\lacowhile\lacowhile\obj\Debug\lacowhile.Form1.resources
+C:\Users\lab_street\source\repos\lacowhile\lacowhile\obj\Debug\lacowhile.Properties.Resources.resources
+C:\Users\lab_street\source\repos\lacowhile\lacowhile\obj\Debug\lacowhile.csproj.GenerateResource.cache
+C:\Users\lab_street\source\repos\lacowhile\lacowhile\obj\Debug\lacowhile.csproj.CoreCompileInputs.cache
+C:\Users\lab_street\source\repos\lacowhile\lacowhile\bin\Debug\lacowhile.exe.config
+C:\Users\lab_street\source\repos\lacowhile\lacowhile\bin\Debug\lacowhile.exe
+C:\Users\lab_street\source\repos\lacowhile\lacowhile\bin\Debug\lacowhile.pdb
+C:\Users\lab_street\source\repos\lacowhile\lacowhile\obj\Debug\lacowhile.exe
+C:\Users\lab_street\source\repos\lacowhile\lacowhile\obj\Debug\lacowhile.pdb
+D:\-\programação\linguagem c\c# blocos\lacowhile\lacowhile\bin\Debug\lacowhile.exe.config
+D:\-\programação\linguagem c\c# blocos\lacowhile\lacowhile\bin\Debug\lacowhile.exe
+D:\-\programação\linguagem c\c# blocos\lacowhile\lacowhile\bin\Debug\lacowhile.pdb
+D:\-\programação\linguagem c\c# blocos\lacowhile\lacowhile\obj\Debug\lacowhile.csprojAssemblyReference.cache
+D:\-\programação\linguagem c\c# blocos\lacowhile\lacowhile\obj\Debug\lacowhile.Form1.resources
+D:\-\programação\linguagem c\c# blocos\lacowhile\lacowhile\obj\Debug\lacowhile.Properties.Resources.resources
+D:\-\programação\linguagem c\c# blocos\lacowhile\lacowhile\obj\Debug\lacowhile.csproj.GenerateResource.cache
+D:\-\programação\linguagem c\c# blocos\lacowhile\lacowhile\obj\Debug\lacowhile.csproj.CoreCompileInputs.cache
+D:\-\programação\linguagem c\c# blocos\lacowhile\lacowhile\obj\Debug\lacowhile.exe
+D:\-\programação\linguagem c\c# blocos\lacowhile\lacowhile\obj\Debug\lacowhile.pdb

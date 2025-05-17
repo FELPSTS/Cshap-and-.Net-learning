@@ -1,0 +1,15 @@
+C:\Users\Torquatos\Desktop\coisas FELPAS\UDEMY\VisualstudioCSharpProjetos\DataEntry-pt.2\DataEntry-pt.2\bin\Debug\net8.0\DataEntry-pt.2.exe
+C:\Users\Torquatos\Desktop\coisas FELPAS\UDEMY\VisualstudioCSharpProjetos\DataEntry-pt.2\DataEntry-pt.2\bin\Debug\net8.0\DataEntry-pt.2.deps.json
+C:\Users\Torquatos\Desktop\coisas FELPAS\UDEMY\VisualstudioCSharpProjetos\DataEntry-pt.2\DataEntry-pt.2\bin\Debug\net8.0\DataEntry-pt.2.runtimeconfig.json
+C:\Users\Torquatos\Desktop\coisas FELPAS\UDEMY\VisualstudioCSharpProjetos\DataEntry-pt.2\DataEntry-pt.2\bin\Debug\net8.0\DataEntry-pt.2.dll
+C:\Users\Torquatos\Desktop\coisas FELPAS\UDEMY\VisualstudioCSharpProjetos\DataEntry-pt.2\DataEntry-pt.2\bin\Debug\net8.0\DataEntry-pt.2.pdb
+C:\Users\Torquatos\Desktop\coisas FELPAS\UDEMY\VisualstudioCSharpProjetos\DataEntry-pt.2\DataEntry-pt.2\obj\Debug\net8.0\DataEntry-pt.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Torquatos\Desktop\coisas FELPAS\UDEMY\VisualstudioCSharpProjetos\DataEntry-pt.2\DataEntry-pt.2\obj\Debug\net8.0\DataEntry-pt.2.AssemblyInfoInputs.cache
+C:\Users\Torquatos\Desktop\coisas FELPAS\UDEMY\VisualstudioCSharpProjetos\DataEntry-pt.2\DataEntry-pt.2\obj\Debug\net8.0\DataEntry-pt.2.AssemblyInfo.cs
+C:\Users\Torquatos\Desktop\coisas FELPAS\UDEMY\VisualstudioCSharpProjetos\DataEntry-pt.2\DataEntry-pt.2\obj\Debug\net8.0\DataEntry-pt.2.csproj.CoreCompileInputs.cache
+C:\Users\Torquatos\Desktop\coisas FELPAS\UDEMY\VisualstudioCSharpProjetos\DataEntry-pt.2\DataEntry-pt.2\obj\Debug\net8.0\DataEntry-pt.2.sourcelink.json
+C:\Users\Torquatos\Desktop\coisas FELPAS\UDEMY\VisualstudioCSharpProjetos\DataEntry-pt.2\DataEntry-pt.2\obj\Debug\net8.0\DataEntry-pt.2.dll
+C:\Users\Torquatos\Desktop\coisas FELPAS\UDEMY\VisualstudioCSharpProjetos\DataEntry-pt.2\DataEntry-pt.2\obj\Debug\net8.0\refint\DataEntry-pt.2.dll
+C:\Users\Torquatos\Desktop\coisas FELPAS\UDEMY\VisualstudioCSharpProjetos\DataEntry-pt.2\DataEntry-pt.2\obj\Debug\net8.0\DataEntry-pt.2.pdb
+C:\Users\Torquatos\Desktop\coisas FELPAS\UDEMY\VisualstudioCSharpProjetos\DataEntry-pt.2\DataEntry-pt.2\obj\Debug\net8.0\DataEntry-pt.2.genruntimeconfig.cache
+C:\Users\Torquatos\Desktop\coisas FELPAS\UDEMY\VisualstudioCSharpProjetos\DataEntry-pt.2\DataEntry-pt.2\obj\Debug\net8.0\ref\DataEntry-pt.2.dll

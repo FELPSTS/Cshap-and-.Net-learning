@@ -1,0 +1,15 @@
+C:\Users\Torquatos\Desktop\coisas FELPAS\UDEMY\VisualstudioCSharpProjetos\ConstructProduct\ConstructProduct\bin\Debug\net8.0\ConstructProduct.exe
+C:\Users\Torquatos\Desktop\coisas FELPAS\UDEMY\VisualstudioCSharpProjetos\ConstructProduct\ConstructProduct\bin\Debug\net8.0\ConstructProduct.deps.json
+C:\Users\Torquatos\Desktop\coisas FELPAS\UDEMY\VisualstudioCSharpProjetos\ConstructProduct\ConstructProduct\bin\Debug\net8.0\ConstructProduct.runtimeconfig.json
+C:\Users\Torquatos\Desktop\coisas FELPAS\UDEMY\VisualstudioCSharpProjetos\ConstructProduct\ConstructProduct\bin\Debug\net8.0\ConstructProduct.dll
+C:\Users\Torquatos\Desktop\coisas FELPAS\UDEMY\VisualstudioCSharpProjetos\ConstructProduct\ConstructProduct\bin\Debug\net8.0\ConstructProduct.pdb
+C:\Users\Torquatos\Desktop\coisas FELPAS\UDEMY\VisualstudioCSharpProjetos\ConstructProduct\ConstructProduct\obj\Debug\net8.0\ConstructProduct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Torquatos\Desktop\coisas FELPAS\UDEMY\VisualstudioCSharpProjetos\ConstructProduct\ConstructProduct\obj\Debug\net8.0\ConstructProduct.AssemblyInfoInputs.cache
+C:\Users\Torquatos\Desktop\coisas FELPAS\UDEMY\VisualstudioCSharpProjetos\ConstructProduct\ConstructProduct\obj\Debug\net8.0\ConstructProduct.AssemblyInfo.cs
+C:\Users\Torquatos\Desktop\coisas FELPAS\UDEMY\VisualstudioCSharpProjetos\ConstructProduct\ConstructProduct\obj\Debug\net8.0\ConstructProduct.csproj.CoreCompileInputs.cache
+C:\Users\Torquatos\Desktop\coisas FELPAS\UDEMY\VisualstudioCSharpProjetos\ConstructProduct\ConstructProduct\obj\Debug\net8.0\ConstructProduct.sourcelink.json
+C:\Users\Torquatos\Desktop\coisas FELPAS\UDEMY\VisualstudioCSharpProjetos\ConstructProduct\ConstructProduct\obj\Debug\net8.0\ConstructProduct.dll
+C:\Users\Torquatos\Desktop\coisas FELPAS\UDEMY\VisualstudioCSharpProjetos\ConstructProduct\ConstructProduct\obj\Debug\net8.0\refint\ConstructProduct.dll
+C:\Users\Torquatos\Desktop\coisas FELPAS\UDEMY\VisualstudioCSharpProjetos\ConstructProduct\ConstructProduct\obj\Debug\net8.0\ConstructProduct.pdb
+C:\Users\Torquatos\Desktop\coisas FELPAS\UDEMY\VisualstudioCSharpProjetos\ConstructProduct\ConstructProduct\obj\Debug\net8.0\ConstructProduct.genruntimeconfig.cache
+C:\Users\Torquatos\Desktop\coisas FELPAS\UDEMY\VisualstudioCSharpProjetos\ConstructProduct\ConstructProduct\obj\Debug\net8.0\ref\ConstructProduct.dll

@@ -1,0 +1,20 @@
+C:\Users\lab_street\source\repos\lendo input box\lendo input box\bin\Debug\lendo input box.exe.config
+C:\Users\lab_street\source\repos\lendo input box\lendo input box\bin\Debug\lendo input box.exe
+C:\Users\lab_street\source\repos\lendo input box\lendo input box\bin\Debug\lendo input box.pdb
+C:\Users\lab_street\source\repos\lendo input box\lendo input box\obj\Debug\lendo input box.csprojAssemblyReference.cache
+C:\Users\lab_street\source\repos\lendo input box\lendo input box\obj\Debug\lendo_input_box.Form1.resources
+C:\Users\lab_street\source\repos\lendo input box\lendo input box\obj\Debug\lendo_input_box.Properties.Resources.resources
+C:\Users\lab_street\source\repos\lendo input box\lendo input box\obj\Debug\lendo input box.csproj.GenerateResource.cache
+C:\Users\lab_street\source\repos\lendo input box\lendo input box\obj\Debug\lendo input box.csproj.CoreCompileInputs.cache
+C:\Users\lab_street\source\repos\lendo input box\lendo input box\obj\Debug\lendo input box.exe
+C:\Users\lab_street\source\repos\lendo input box\lendo input box\obj\Debug\lendo input box.pdb
+D:\-\programação\linguagem c\c# blocos\lendo input box\lendo input box\bin\Debug\lendo input box.exe.config
+D:\-\programação\linguagem c\c# blocos\lendo input box\lendo input box\bin\Debug\lendo input box.exe
+D:\-\programação\linguagem c\c# blocos\lendo input box\lendo input box\bin\Debug\lendo input box.pdb
+D:\-\programação\linguagem c\c# blocos\lendo input box\lendo input box\obj\Debug\lendo input box.csprojAssemblyReference.cache
+D:\-\programação\linguagem c\c# blocos\lendo input box\lendo input box\obj\Debug\lendo_input_box.Form1.resources
+D:\-\programação\linguagem c\c# blocos\lendo input box\lendo input box\obj\Debug\lendo_input_box.Properties.Resources.resources
+D:\-\programação\linguagem c\c# blocos\lendo input box\lendo input box\obj\Debug\lendo input box.csproj.GenerateResource.cache
+D:\-\programação\linguagem c\c# blocos\lendo input box\lendo input box\obj\Debug\lendo input box.csproj.CoreCompileInputs.cache
+D:\-\programação\linguagem c\c# blocos\lendo input box\lendo input box\obj\Debug\lendo input box.exe
+D:\-\programação\linguagem c\c# blocos\lendo input box\lendo input box\obj\Debug\lendo input box.pdb

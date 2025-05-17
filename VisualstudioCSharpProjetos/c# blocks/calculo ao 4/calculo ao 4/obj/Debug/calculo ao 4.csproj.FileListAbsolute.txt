@@ -1,0 +1,20 @@
+C:\Users\lab_street\source\repos\calculo ao 4\calculo ao 4\obj\Debug\calculo ao 4.csprojAssemblyReference.cache
+C:\Users\lab_street\source\repos\calculo ao 4\calculo ao 4\obj\Debug\calculo_ao_4.Form1.resources
+C:\Users\lab_street\source\repos\calculo ao 4\calculo ao 4\obj\Debug\calculo_ao_4.Properties.Resources.resources
+C:\Users\lab_street\source\repos\calculo ao 4\calculo ao 4\obj\Debug\calculo ao 4.csproj.GenerateResource.cache
+C:\Users\lab_street\source\repos\calculo ao 4\calculo ao 4\obj\Debug\calculo ao 4.csproj.CoreCompileInputs.cache
+C:\Users\lab_street\source\repos\calculo ao 4\calculo ao 4\bin\Debug\calculo ao 4.exe.config
+C:\Users\lab_street\source\repos\calculo ao 4\calculo ao 4\bin\Debug\calculo ao 4.exe
+C:\Users\lab_street\source\repos\calculo ao 4\calculo ao 4\bin\Debug\calculo ao 4.pdb
+C:\Users\lab_street\source\repos\calculo ao 4\calculo ao 4\obj\Debug\calculo ao 4.exe
+C:\Users\lab_street\source\repos\calculo ao 4\calculo ao 4\obj\Debug\calculo ao 4.pdb
+C:\Users\Torquatos\Desktop\coisas FELPAS\FELIPE\coisas FELPST\aulas\pasta geral\programação\linguagem c\c# blocos\calculo ao 4\calculo ao 4\bin\Debug\calculo ao 4.exe.config
+C:\Users\Torquatos\Desktop\coisas FELPAS\FELIPE\coisas FELPST\aulas\pasta geral\programação\linguagem c\c# blocos\calculo ao 4\calculo ao 4\bin\Debug\calculo ao 4.exe
+C:\Users\Torquatos\Desktop\coisas FELPAS\FELIPE\coisas FELPST\aulas\pasta geral\programação\linguagem c\c# blocos\calculo ao 4\calculo ao 4\bin\Debug\calculo ao 4.pdb
+C:\Users\Torquatos\Desktop\coisas FELPAS\FELIPE\coisas FELPST\aulas\pasta geral\programação\linguagem c\c# blocos\calculo ao 4\calculo ao 4\obj\Debug\calculo ao 4.csproj.AssemblyReference.cache
+C:\Users\Torquatos\Desktop\coisas FELPAS\FELIPE\coisas FELPST\aulas\pasta geral\programação\linguagem c\c# blocos\calculo ao 4\calculo ao 4\obj\Debug\calculo_ao_4.Form1.resources
+C:\Users\Torquatos\Desktop\coisas FELPAS\FELIPE\coisas FELPST\aulas\pasta geral\programação\linguagem c\c# blocos\calculo ao 4\calculo ao 4\obj\Debug\calculo_ao_4.Properties.Resources.resources
+C:\Users\Torquatos\Desktop\coisas FELPAS\FELIPE\coisas FELPST\aulas\pasta geral\programação\linguagem c\c# blocos\calculo ao 4\calculo ao 4\obj\Debug\calculo ao 4.csproj.GenerateResource.cache
+C:\Users\Torquatos\Desktop\coisas FELPAS\FELIPE\coisas FELPST\aulas\pasta geral\programação\linguagem c\c# blocos\calculo ao 4\calculo ao 4\obj\Debug\calculo ao 4.csproj.CoreCompileInputs.cache
+C:\Users\Torquatos\Desktop\coisas FELPAS\FELIPE\coisas FELPST\aulas\pasta geral\programação\linguagem c\c# blocos\calculo ao 4\calculo ao 4\obj\Debug\calculo ao 4.exe
+C:\Users\Torquatos\Desktop\coisas FELPAS\FELIPE\coisas FELPST\aulas\pasta geral\programação\linguagem c\c# blocos\calculo ao 4\calculo ao 4\obj\Debug\calculo ao 4.pdb

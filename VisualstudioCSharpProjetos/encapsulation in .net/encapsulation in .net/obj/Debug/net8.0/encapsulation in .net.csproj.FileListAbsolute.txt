@@ -1,0 +1,15 @@
+C:\Users\Torquatos\Desktop\coisas FELPAS\UDEMY\VisualstudioCSharpProjetos\encapsulation in .net\encapsulation in .net\bin\Debug\net8.0\encapsulation in .net.exe
+C:\Users\Torquatos\Desktop\coisas FELPAS\UDEMY\VisualstudioCSharpProjetos\encapsulation in .net\encapsulation in .net\bin\Debug\net8.0\encapsulation in .net.deps.json
+C:\Users\Torquatos\Desktop\coisas FELPAS\UDEMY\VisualstudioCSharpProjetos\encapsulation in .net\encapsulation in .net\bin\Debug\net8.0\encapsulation in .net.runtimeconfig.json
+C:\Users\Torquatos\Desktop\coisas FELPAS\UDEMY\VisualstudioCSharpProjetos\encapsulation in .net\encapsulation in .net\bin\Debug\net8.0\encapsulation in .net.dll
+C:\Users\Torquatos\Desktop\coisas FELPAS\UDEMY\VisualstudioCSharpProjetos\encapsulation in .net\encapsulation in .net\bin\Debug\net8.0\encapsulation in .net.pdb
+C:\Users\Torquatos\Desktop\coisas FELPAS\UDEMY\VisualstudioCSharpProjetos\encapsulation in .net\encapsulation in .net\obj\Debug\net8.0\encapsulation in .net.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Torquatos\Desktop\coisas FELPAS\UDEMY\VisualstudioCSharpProjetos\encapsulation in .net\encapsulation in .net\obj\Debug\net8.0\encapsulation in .net.AssemblyInfoInputs.cache
+C:\Users\Torquatos\Desktop\coisas FELPAS\UDEMY\VisualstudioCSharpProjetos\encapsulation in .net\encapsulation in .net\obj\Debug\net8.0\encapsulation in .net.AssemblyInfo.cs
+C:\Users\Torquatos\Desktop\coisas FELPAS\UDEMY\VisualstudioCSharpProjetos\encapsulation in .net\encapsulation in .net\obj\Debug\net8.0\encapsulation in .net.csproj.CoreCompileInputs.cache
+C:\Users\Torquatos\Desktop\coisas FELPAS\UDEMY\VisualstudioCSharpProjetos\encapsulation in .net\encapsulation in .net\obj\Debug\net8.0\encapsulation in .net.sourcelink.json
+C:\Users\Torquatos\Desktop\coisas FELPAS\UDEMY\VisualstudioCSharpProjetos\encapsulation in .net\encapsulation in .net\obj\Debug\net8.0\encapsulation in .net.dll
+C:\Users\Torquatos\Desktop\coisas FELPAS\UDEMY\VisualstudioCSharpProjetos\encapsulation in .net\encapsulation in .net\obj\Debug\net8.0\refint\encapsulation in .net.dll
+C:\Users\Torquatos\Desktop\coisas FELPAS\UDEMY\VisualstudioCSharpProjetos\encapsulation in .net\encapsulation in .net\obj\Debug\net8.0\encapsulation in .net.pdb
+C:\Users\Torquatos\Desktop\coisas FELPAS\UDEMY\VisualstudioCSharpProjetos\encapsulation in .net\encapsulation in .net\obj\Debug\net8.0\encapsulation in .net.genruntimeconfig.cache
+C:\Users\Torquatos\Desktop\coisas FELPAS\UDEMY\VisualstudioCSharpProjetos\encapsulation in .net\encapsulation in .net\obj\Debug\net8.0\ref\encapsulation in .net.dll

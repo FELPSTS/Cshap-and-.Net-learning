@@ -1,0 +1,7 @@
+D:\-\programação\linguagem c\c# blocos\lacoliswhile\lacoliswhile\obj\Debug\lacoliswhile.Form1.resources
+D:\-\programação\linguagem c\c# blocos\lacoliswhile\lacoliswhile\obj\Debug\lacoliswhile.Properties.Resources.resources
+D:\-\programação\linguagem c\c# blocos\lacoliswhile\lacoliswhile\obj\Debug\lacoliswhile.csproj.GenerateResource.cache
+D:\-\programação\linguagem c\c# blocos\lacoliswhile\lacoliswhile\obj\Debug\lacoliswhile.csproj.CoreCompileInputs.cache
+D:\-\programação\linguagem c\c# blocos\lacoliswhile\lacoliswhile\obj\Debug\lacoliswhile.csprojAssemblyReference.cache
+D:\-\programação\linguagem c\c# blocos\lacoliswhile\lacoliswhile\obj\Debug\lacoliswhile.csproj.AssemblyReference.cache
+D:\-\programação\linguagem c\c# blocos\lacoliswhile\lacoliswhile\obj\Debug\lacoliswhile.csproj.SuggestedBindingRedirects.cache

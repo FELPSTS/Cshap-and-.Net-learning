@@ -1,0 +1,10 @@
+C:\Users\lab_street\source\repos\menu\menu\bin\Debug\menu.exe.config
+C:\Users\lab_street\source\repos\menu\menu\bin\Debug\menu.exe
+C:\Users\lab_street\source\repos\menu\menu\bin\Debug\menu.pdb
+C:\Users\lab_street\source\repos\menu\menu\obj\Debug\menu.csprojAssemblyReference.cache
+C:\Users\lab_street\source\repos\menu\menu\obj\Debug\menu.Form1.resources
+C:\Users\lab_street\source\repos\menu\menu\obj\Debug\menu.Properties.Resources.resources
+C:\Users\lab_street\source\repos\menu\menu\obj\Debug\menu.csproj.GenerateResource.cache
+C:\Users\lab_street\source\repos\menu\menu\obj\Debug\menu.csproj.CoreCompileInputs.cache
+C:\Users\lab_street\source\repos\menu\menu\obj\Debug\menu.exe
+C:\Users\lab_street\source\repos\menu\menu\obj\Debug\menu.pdb

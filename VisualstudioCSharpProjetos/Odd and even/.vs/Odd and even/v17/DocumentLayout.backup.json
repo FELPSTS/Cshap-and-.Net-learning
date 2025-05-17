@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Torquatos\\Desktop\\coisas FELPAS\\UDEMY\\VisualstudioCSharpProjetos\\Odd and even\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA106E5E-8FBC-4304-8688-1B70E46C839B}|Odd and even\\Odd and even.csproj|c:\\users\\torquatos\\desktop\\coisas felpas\\udemy\\visualstudiocsharpprojetos\\odd and even\\odd and even\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA106E5E-8FBC-4304-8688-1B70E46C839B}|Odd and even\\Odd and even.csproj|solutionrelative:odd and even\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Torquatos\\Desktop\\coisas FELPAS\\UDEMY\\VisualstudioCSharpProjetos\\Odd and even\\Odd and even\\Program.cs",
+              "RelativeDocumentMoniker": "Odd and even\\Program.cs",
+              "ToolTip": "C:\\Users\\Torquatos\\Desktop\\coisas FELPAS\\UDEMY\\VisualstudioCSharpProjetos\\Odd and even\\Odd and even\\Program.cs",
+              "RelativeToolTip": "Odd and even\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T17:37:01.418Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
